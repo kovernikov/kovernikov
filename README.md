@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kovernikov Aleksej
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I want to cooperate with someone for my development
 - 📫 How to reach me kovernikov@post.cz
 
 <!---
